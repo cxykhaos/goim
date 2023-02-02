@@ -2,6 +2,8 @@
 使用 golang的gin+mongodb+redis+websocket 开发的聊天通讯软件
 
 > 主要为了练手，顺便试着学习一下通讯软件的思路。
+有兴趣的可以提bug（最好直接提PR哈哈哈哈）
+go语言交流群：342950180
 
 ![image](tmp/3.png)
 ![image](tmp/2.png)
