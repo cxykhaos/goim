@@ -1,0 +1,17 @@
+server:
+  port: 8083
+
+db:
+  mongo:
+    host: localhost
+    port: 27017
+    user: root
+    pwd: 123456
+    db: goim
+  redis:
+    addr: localhost:6379
+    db: 5
+    password: doqwjdoj324324
+
+file:
+  savepath: files/
